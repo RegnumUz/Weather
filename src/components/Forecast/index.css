@@ -1,0 +1,16 @@
+.weatherWeek h1 {
+    font-size: 12px;
+    font-weight: 700;
+    background-color: rgba(0, 0, 0, 0.438);
+    padding: 2px 7px;
+    border-radius: 10px;
+}
+.weatherWeek img {
+    width: 80px;
+}
+.weatherWeek span {
+    font-size: 22px;
+}
+.weatherWeek {
+    margin: 0 10px;
+}

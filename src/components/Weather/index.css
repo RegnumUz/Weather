@@ -1,0 +1,21 @@
+.weatherNow {
+    display: grid;
+    grid-template-columns: 2.5fr 2.5fr;
+    justify-content: center;
+    align-content: center;
+    margin-right: 20px;
+}
+.weatherNow h1 {
+    font-size: 12px;
+    font-weight: 700;
+    background-color: rgba(0, 0, 0, 0.438);
+    padding: 2px 7px;
+    border-radius: 10px;
+}
+.weatherNow img {
+    width: 150px;
+    display: inline-block;
+}
+.weatherNow span {
+    font-size: 32px;
+}

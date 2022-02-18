@@ -1,0 +1,13 @@
+.WeatherAndForecast {
+  display: flex;
+  color: #f2f2f2;
+  padding: 20px 45px 20px 45px;
+  background: rgba(74, 141, 196, 0.288);
+}
+
+.WeatherAndForecast_container {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+

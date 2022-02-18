@@ -1,0 +1,13 @@
+
+.search {
+    width: 150px;
+}
+
+.search_input {
+    background: none;
+    width: 150px;
+    outline: none;
+    border: none;
+    color: white;
+    font-size: 25px;
+}
